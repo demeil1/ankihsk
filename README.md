@@ -27,4 +27,4 @@ into the anki app.
 # Sample
 Here is an example of what a card looks like after the deck is created 
 and uploaded.
-![sample image](assets/sample)
+![sample image](assets/sample.png)
